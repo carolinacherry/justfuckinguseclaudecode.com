@@ -28,7 +28,7 @@ Total time: ~17 minutes. Total cost: $12.19. Total lines of code written by a hu
 - ✨ Fancy hand-drawn highlight animations (thanks [Rough Notation](https://roughnotation.com/))
 - 🔗 Shareable URLs (`#1`, `#2`, etc.)
 - ⬅️➡️ Browser back/forward support
-- 📊 Google Analytics (because we want to know how many people are converting)
+- 📊 Google Analytics (because we want to know how many people are visiting)
 - 🍦 Vanilla JS, no framework, no build step, just vibes
 
 ## Run locally
